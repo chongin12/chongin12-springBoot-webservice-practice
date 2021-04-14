@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.chongin12.practice.springboot.web.dto.HelloResponseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-13T14:33:31" hostname="W44352" time="0.198">
-  <properties/>
-  <testcase name="lombokSkillTest" classname="com.chongin12.practice.springboot.web.dto.HelloResponseTest" time="0.198"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
